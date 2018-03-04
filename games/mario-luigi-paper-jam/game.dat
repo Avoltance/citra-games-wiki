@@ -40,3 +40,13 @@ author = "Avoltance"
 cpu = "Intel Core i5 4200U"
 gpu = "NVIDIA GeForce GT 720M"
 os = "Windows 10"
+
+[[ testcases ]]
+title = "0004000000132800"
+compatibility = "2"
+date = "2018-03-04"
+version = "Nightly Build - 001ad9d"
+author = "Avoltance"
+cpu = "Intel Core i5-7200U"
+gpu = "NVIDIA GeForce MX150"
+os = "Windows 10"
